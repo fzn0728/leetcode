@@ -32,4 +32,4 @@ class Solution(object): # I have no better solution than the answer
                     result += s[index] # it seems that no matter how large the numRows is, there are only two pattern need to be consider, 2*n-2i-2 and 2*i
                     index += 2*i
                 index = i + 1
-        return result
+ef        return result
